@@ -19,7 +19,7 @@ const app = express();
 // Add your live Vercel URL to the list of allowed origins
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://warranty-track.vercel.app' // The URL from your screenshot
+  'https://warranty-track.vercel.app', // The URL from your screenshot
   'https://warranty-track-bhanu-1509s-projects.vercel.app/'
 ];
 
