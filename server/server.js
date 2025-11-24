@@ -20,6 +20,7 @@ const app = express();
 const allowedOrigins = [
   'http://localhost:5173',
   'https://warranty-track.vercel.app' // The URL from your screenshot
+  'https://warranty-track-bhanu-1509s-projects.vercel.app/'
 ];
 
 app.use(cors({
